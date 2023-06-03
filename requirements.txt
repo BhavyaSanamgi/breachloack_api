@@ -1,0 +1,12 @@
+Django==4.1.7
+djangorestframework==3.14.0
+django-cors-headers==3.14.0
+django-rest-swagger==2.2.0
+mysqlclient==2.1.1
+drf-spectacular==0.26.2
+djangorestframework-simplejwt==5.2.2
+python-decouple==3.8
+zappa==0.57.0
+awscli==1.27.140
+pymysql==1.0.3
+twilio==8.2.1
