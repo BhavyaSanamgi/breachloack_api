@@ -38,5 +38,8 @@ python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
 
+
+## test case
+by `pytest` you can run test cases in project
 ## swagger
 you can access swagger in `/api/docs` end point once you started the server
